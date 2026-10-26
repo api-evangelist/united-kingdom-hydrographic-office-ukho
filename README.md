@@ -64,5 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-United Kingdom Hydrographic Office (UKHO) is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- http://www.ukho.gov.uk
+The United Kingdom Hydrographic Office (UKHO) is an executive agency of the UK Ministry of Defence that sells hydrographic and marine geospatial data, nautical charts, publications and digital navigation services under the Admiralty brand. It supplies these products to mariners, shipping companies, defence users and other maritime stakeholders worldwide to support safe, efficient and compliant navigation.
+
+**Areas:** Hydrography · Nautical Charts · Maritime Navigation · Defence · Marine Data · Admiralty Products
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](http://www.ukho.gov.uk)
+- [Terms of service](https://www.admiralty.co.uk/terms-and-conditions)
+- [Privacy policy](https://www.admiralty.co.uk/privacy-policy)
+- [GitHub](https://github.com/UKHO)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/united-kingdom-hydrographic-office-ukho/](https://apis.io/providers/united-kingdom-hydrographic-office-ukho/).
